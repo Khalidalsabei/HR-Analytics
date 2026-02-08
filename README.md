@@ -16,6 +16,12 @@ The workflow includes **data exploration (EDA)**, analytical SQL queries, and an
 
 ---
 
+##  Dashboard Preview
+
+![Dashboard Overview](HR.Analytics/images/HRdashboard.png)
+
+---
+
 ##  Dataset
 Table name: **HRDatacleaned**
 
